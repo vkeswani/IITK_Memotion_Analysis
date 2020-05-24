@@ -6,7 +6,7 @@
 In this repository, we present our approaches for the Sentiment Analysis of Internet Memes. The challenge was organized under the SemEval-2020 International Workshop (Task 8: Memotion Analysis).
 </div><p> </p>
 <div>
-Memes are essentially bimodal. They have both Text and Image components. We used both bimodal (text and image) and unimodal (text-only) approaches as listed below:
+Memes are essentially bimodal. They have both Text and Image components. We used both bimodal (text and image) and unimodal (text-only) approaches as listed below:<p></p>
 <ul><b>Bimodal</b>
   <li>FFNN+CNN+SVM</li>
   <li>MMBT</li>
@@ -19,7 +19,7 @@ Memes are essentially bimodal. They have both Text and Image components. We used
 </div>
 <div>
 The details of the architectures and performance are discussed in the corresponding paper which will be arriving soon.
-</div>
+</div><p></p>
 <div>
   <ul><b>Resources</b>
   <li>https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7</li>
