@@ -1,0 +1,1 @@
+This folder contains the train and test scripts for BERT. For details about downloading the model and directories, please refer to https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7.
