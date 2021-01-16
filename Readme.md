@@ -18,7 +18,7 @@ Memes are essentially bimodal. They have both Text and Image components. We used
 </ul>
 </div>
 <div>
-The details of the architectures and performance are discussed in the corresponding paper which will be arriving soon.
+The details of the architectures and performance are discussed in the corresponding paper (https://www.aclweb.org/anthology/2020.semeval-1.150/).
 </div><p></p>
 <div>
   <ul><b>Resources</b>
