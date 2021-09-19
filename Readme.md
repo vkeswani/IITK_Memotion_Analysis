@@ -15,7 +15,7 @@ Memes are essentially bimodal. They have both Text and Image components. We used
 * FFNN with Word2vec
 * BERT
 
-The details of the architectures and performance are discussed in the corresponding paper (https://www.aclweb.org/anthology/2020.semeval-1.150/).
+The details of the architectures and performance are discussed in the corresponding [paper](https://www.aclweb.org/anthology/2020.semeval-1.150/).
 
 ### Resources
 * https://blog.insightdatascience.com/using-bert-for-state-of-the-art-pre-training-for-natural-language-processing-1d87142c29e7
