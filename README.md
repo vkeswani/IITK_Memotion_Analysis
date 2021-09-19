@@ -22,15 +22,15 @@ modalities.
 Memes are essentially bimodal. They have both Text and Image components. We used both bimodal (text and image) and unimodal (text-only) approaches as listed below: <br>
 
 **Bimodal**
-* FFNN+CNN+SVM
-* MMBT 
+* ffnn_cnn_svm: Feed Forward Neural Network with Word2vec for text, CNN for images, combined via an SVM classifier 
+* mmbt: Multimodal Bitransformer 
 
 **Unimodal**
-* Naive Bayes
-* FFNN with Word2vec
-* BERT
+* naive_bayes: Simple Naive Bayes classifier 
+* ffnn_w2v: Feed Forward Neural Network with Word2ve
+* bert: Bidirectional Encoder Representations via Transformers
 
-The details of the architectures and performance are discussed in the corresponding [paper](https://www.aclweb.org/anthology/2020.semeval-1.150/).
+The details of the architectures and performance are discussed in the [paper](https://www.aclweb.org/anthology/2020.semeval-1.150/).
 
 ## Citation
 ```
