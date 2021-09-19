@@ -1,4 +1,4 @@
-# Memotion Analysis, SemEval-2020 International Workshop
+# [Memotion Analysis](https://competitions.codalab.org/competitions/20629), SemEval-2020 International Workshop, COLING
 
 **Authors**: Vishal Keswani, Sakshi Singh
 
