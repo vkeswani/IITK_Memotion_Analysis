@@ -27,7 +27,7 @@ Memes are essentially bimodal. They have both Text and Image components. We used
 
 **Unimodal**
 * naive_bayes: Simple Naive Bayes classifier 
-* ffnn_w2v: Feed Forward Neural Network with Word2ve
+* ffnn_w2v: Feed Forward Neural Network with Word2vec
 * bert: Bidirectional Encoder Representations via Transformers
 
 The details of the architectures and performance are discussed in the [paper](https://www.aclweb.org/anthology/2020.semeval-1.150/).
